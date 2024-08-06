@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5420722
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1722989791/ei/f2iyZoDNCtyLkucPvrSu-Qs/ip/172.172.5.129/id/5WibDTVN9oE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/spc/NO7bAWy71L2yIzAgx5mLV0J7TRb6thnAUwb4jt4mKHcUhNw8gjiMhdlLMtVrWqY/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAIEqX7_5NTz_21reRC3hV00vcs-B59A28bZ-BhPcobI_AiBMYw2avuOhddfh9-qdeOdo8n5r6Qy0BzAPm3d_G-q8Sw%3D%3D/file/index.m3u8
+https://raw.githubusercontent.com/kubbar/youtube_and_dailymotion/main/notwork/notwork.m3u8
