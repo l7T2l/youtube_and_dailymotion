@@ -1,0 +1,4 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=908285,RESOLUTION=854x480,CODECS="avc1.77.30,mp4a.40.2",CLOSED-CAPTIONS=NONE
+http://ltvl.vercel.app/alraimedia/chunk/proxy/https://live.kwikmotion.com/alraimedialive/alraitv.smil/alraitvpublish/alraitv_source/hdntl=exp=1729368576~acl=%2falraimedialive%2falraitv.smil%2f*~data=hdntl~hmac=2003c19a5cbfc6b68a5cad7be5af1f3b833dc16f6f100e61a13c8ad700c7384d/chunks.m3u8
